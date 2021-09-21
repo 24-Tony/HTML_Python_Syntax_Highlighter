@@ -9,5 +9,3 @@ Previous versions:
 Version | View
 ------- | -------
 v 1.0.2 | [View](https://github.com/24-Tony/HTML_Python_Syntax_Highlighter/blob/main/Html_Code_Formatter_v1.0.2.py])
-
-
