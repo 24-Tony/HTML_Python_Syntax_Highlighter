@@ -1,6 +1,6 @@
 # HTML_Python_Syntax_Highlighter
 
-#### A program to create syntax highlighting for Python in HTML.
+#### A program to generate Python syntax highlighting in HTML.
 
 Latest version (v.1.0.3): [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter.py)
 
