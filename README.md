@@ -2,7 +2,7 @@
 
 #### A program to generate Python syntax highlighting in HTML.
 
-Latest version (v.1.0.3): [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter.py)
+Latest version (v 1.1.0): [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter.py)
 
 Features:
 
@@ -14,6 +14,7 @@ Previous versions:
 
 Version | View
 ------- | -------
+v 1.1.0 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.1.0.py)
 v 1.0.3 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.0.3.py)
 v 1.0.2 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.0.2.py)
 
@@ -25,14 +26,28 @@ v 1.0.2 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Hi
 1. Run the program - open the file and press the [F5] button on your keyboard.
      
 2. Chose the theme:
-    ![image](https://user-images.githubusercontent.com/47753578/134344900-f5dbcf9f-26c4-4d20-bf58-5877ac7ce0e9.png)
+
+![Theme Selector Image](https://user-images.githubusercontent.com/47753578/134692006-8336ba67-ee67-4a8a-b032-b81a911d53f3.png)
+
 3. The program should display a warning
 
-![image](https://user-images.githubusercontent.com/47753578/134345390-32e585ec-4a5f-4c95-a671-6eda95fb18d6.png)
+![Warning Image](https://user-images.githubusercontent.com/47753578/134692671-8fec5c86-5366-4c4a-a0b8-95886c74e19b.png)
 
-4. Next type your command should resemble: `htmlCode('''Paste Code Here''')`, `htmlCode('Paste Code Here', inline=True)`, `html_NoColor('''Paste Code Here''')`, or  `html_NoColor('Paste Code Here', inline=True)`
+4. Next type your command 
 
-  ![image](https://user-images.githubusercontent.com/47753578/134346471-4d6b9ecf-66ed-4ff6-b672-965f8c9d0592.png)
+   - It should resemble: `htmlCode('''Paste Code Here''')`, `htmlCode('Paste Code Here', inline=True)`, `htmlCode('''Paste Code Here''').preview()`, `htmlCode('Paste Code Here', inline=True).preview()`, `html_NoColor('''Paste Code Here''')`, or  `html_NoColor('Paste Code Here', inline=True)`
+
+      ![Default ](https://user-images.githubusercontent.com/47753578/134693555-81df5bea-a77f-4c54-b00b-288b24ff6f8c.png)
+  
+       Which previews as: 
+       ![image](https://user-images.githubusercontent.com/47753578/134693670-b697d323-b052-497e-9f40-148c23fab72e.png)
+
+    - Or if you are using the command `HighlightCode()`
+  
+      ![image](https://user-images.githubusercontent.com/47753578/134694295-9035c07c-0f35-4538-b1af-b1d64f62d7b4.png)
+
+       Which previews as: 
+       ![image](https://user-images.githubusercontent.com/47753578/134693670-b697d323-b052-497e-9f40-148c23fab72e.png)
 
 5. Copy the output and paste it into the html editor
     
@@ -47,3 +62,7 @@ v 1.0.2 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Hi
         ![image](https://user-images.githubusercontent.com/47753578/134344062-2323b561-8c45-4076-83e0-4acd5806ac11.png)
 
       - The output would then be pasted into the HTML editor.
+
+
+# Themes
+![Themes](https://user-images.githubusercontent.com/47753578/134695081-48a1d83f-c6e6-494b-ab3f-2fb3eed94b7f.png)
