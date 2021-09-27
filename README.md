@@ -37,17 +37,17 @@ v 1.0.2 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Hi
 
    - It should resemble: `htmlCode('''Paste Code Here''')`, `htmlCode('Paste Code Here', inline=True)`, `htmlCode('''Paste Code Here''').preview()`, `htmlCode('Paste Code Here', inline=True).preview()`, `html_NoColor('''Paste Code Here''')`, or  `html_NoColor('Paste Code Here', inline=True)`
 
-      ![Default ](https://user-images.githubusercontent.com/47753578/134693555-81df5bea-a77f-4c54-b00b-288b24ff6f8c.png)
+      ![Default](https://user-images.githubusercontent.com/47753578/134693555-81df5bea-a77f-4c54-b00b-288b24ff6f8c.png)
   
        Which previews as: 
-       ![image](https://user-images.githubusercontent.com/47753578/134693670-b697d323-b052-497e-9f40-148c23fab72e.png)
+       ![Default Preview](https://user-images.githubusercontent.com/47753578/134693670-b697d323-b052-497e-9f40-148c23fab72e.png)
 
     - Or if you are using the command `HighlightCode()`
   
-      ![image](https://user-images.githubusercontent.com/47753578/134694295-9035c07c-0f35-4538-b1af-b1d64f62d7b4.png)
+      ![HighlightCode](https://user-images.githubusercontent.com/47753578/134694295-9035c07c-0f35-4538-b1af-b1d64f62d7b4.png)
 
        Which previews as: 
-       ![image](https://user-images.githubusercontent.com/47753578/134693670-b697d323-b052-497e-9f40-148c23fab72e.png)
+       ![HighlightCodePreview](https://user-images.githubusercontent.com/47753578/134693670-b697d323-b052-497e-9f40-148c23fab72e.png)
 
 5. Copy the output and paste it into the html editor
     
