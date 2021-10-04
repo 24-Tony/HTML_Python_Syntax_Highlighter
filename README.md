@@ -1,5 +1,9 @@
 # HTML_Python_Syntax_Highlighter
 
+
+
+
+
 #### A program to generate Python syntax highlighting in HTML.
 
 Latest version (v 1.1.0): [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter.py)
@@ -7,6 +11,7 @@ Latest version (v 1.1.0): [View](https://raw.githubusercontent.com/24-Tony/HTML_
 Features:
 
 ![image](https://user-images.githubusercontent.com/47753578/134266827-43405ad9-d251-4cca-997d-0da2afa5a764.png)
+
 
 
 
@@ -22,6 +27,24 @@ v 1.0.2 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Hi
 
 # Using the Highlighter
 ### Note: the program may not work for every code and I probably missed a few highlighting built-ins.
+
+You may encounter the following question:
+
+![Prompt](https://user-images.githubusercontent.com/47753578/135868355-1114f226-4375-4dbb-bb7b-d25e62421e27.png)
+
+If you do not encounter it you are using an older version and it is defaulting to command line mode
+
+### Interface (only for versions 2.0.0 and higher)
+
+On the first run, the program will complete some initialization, this may take a few seconds.
+
+![image](https://user-images.githubusercontent.com/47753578/135868809-c35af2e3-8c7a-4234-8ef5-e267b817ab7f.png)
+
+It is pretty self-explanitory, but here is an example video of using it: (It may seem shaky embeded in here, to solve this press the three dots (⁝) button and click download. Then open the file and watch it there.)
+
+https://user-images.githubusercontent.com/47753578/135867233-8948b946-d9dc-4546-b97f-966bf28b2eb7.mp4
+
+### Command line (themes and specific outputs may be slightly different, but these instructions should give a general idea)
 
 1. Run the program - open the file and press the [F5] button on your keyboard.
      
@@ -64,5 +87,10 @@ v 1.0.2 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Hi
       - The output would then be pasted into the HTML editor.
 
 
+
+
+
+
 # Themes
 ![Themes](https://user-images.githubusercontent.com/47753578/134695081-48a1d83f-c6e6-494b-ab3f-2fb3eed94b7f.png)
+
