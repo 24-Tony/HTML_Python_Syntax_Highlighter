@@ -1,4 +1,4 @@
-# HTML_Python_Syntax_Highlighter
+# HTML Python Syntax Highlighter
 
 
 
