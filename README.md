@@ -6,11 +6,8 @@
 
 #### A program to generate Python syntax highlighting in HTML.
 
-Latest version (v 1.1.0): [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter.py)
+Latest version (v 2.0.0): [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter.py)
 
-Features:
-
-![image](https://user-images.githubusercontent.com/47753578/134266827-43405ad9-d251-4cca-997d-0da2afa5a764.png)
 
 
 
@@ -19,6 +16,7 @@ Previous versions:
 
 Version | View
 ------- | -------
+v 2.0.0 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v2.0.0.py)
 v 1.1.0 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.1.0.py)
 v 1.0.3 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.0.3.py)
 v 1.0.2 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.0.2.py)
