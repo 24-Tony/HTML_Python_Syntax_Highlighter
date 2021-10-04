@@ -14,12 +14,12 @@ Latest version (v 2.0.0): [View](https://raw.githubusercontent.com/24-Tony/HTML_
 
 Previous versions:
 
-Version | View
-------- | -------
-v 2.0.0 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v2.0.0.py)
-v 1.1.0 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.1.0.py)
-v 1.0.3 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.0.3.py)
-v 1.0.2 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.0.2.py)
+Version | View  Code  | Release | Download|
+------- | ----------- | ------- | ------- |
+v 2.0.0 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v2.0.0.py) | [View](https://github.com/24-Tony/HTML_Python_Syntax_Highlighter/releases/tag/v2.0.0) | [Download](https://github.com/24-Tony/HTML_Python_Syntax_Highlighter/releases/download/v2.0.0/Html_Code_Formatter.v2.0.0.py) |
+v 1.1.0 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.1.0.py) | [View](https://github.com/24-Tony/HTML_Python_Syntax_Highlighter/releases/tag/v1.1.0) | None
+v 1.0.3 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.0.3.py) | None | None
+v 1.0.2 | [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter_v1.0.2.py) | None | None
 
 
 
