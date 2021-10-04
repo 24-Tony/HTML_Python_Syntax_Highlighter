@@ -40,7 +40,7 @@ On the first run, the program will complete some initialization, this may take a
 
 It is pretty self-explanitory, but here is an example video of using it: (It may seem shaky embeded in here, to solve this press the three dots (⁝) button and click download. Then open the file and watch it there.)
 
-https://user-images.githubusercontent.com/47753578/135867233-8948b946-d9dc-4546-b97f-966bf28b2eb7.mp4
+[Prompt](https://user-images.githubusercontent.com/47753578/135867233-8948b946-d9dc-4546-b97f-966bf28b2eb7.mp4)
 
 ### Command line (themes and specific outputs may be slightly different, but these instructions should give a general idea)
 
