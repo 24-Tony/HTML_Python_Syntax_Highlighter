@@ -5,6 +5,7 @@
 
 
 #### A program to generate Python syntax highlighting in HTML.
+##### This program was intended for use by students at [UoPeople](www.uopeople.edu), however, anyone can use it.
 
 Latest version (v 2.0.0): [View](https://raw.githubusercontent.com/24-Tony/HTML_Python_Syntax_Highlighter/main/Html_Code_Formatter.py)
 
@@ -92,3 +93,9 @@ It is pretty self-explanitory, but here is an example video of using it: (It may
 # Themes
 ![Themes](https://user-images.githubusercontent.com/47753578/134695081-48a1d83f-c6e6-494b-ab3f-2fb3eed94b7f.png)
 
+# Alternatives
+
+### Here are some alternatives to this syntax highlighter:
+ - [hilite.me](http://hilite.me/)
+ - [codebeautify](https://codebeautify.org/code-highlighter#:~:text=Online%20Syntax%20Highlighter%20helps%20to%20generate%20HTML%20code,languages.%20What%20can%20you%20do%20with%20Code%20Highlighter%3F)
+ - [highlight code](https://highlight.hohli.com/index.php)
